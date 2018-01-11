@@ -26,7 +26,7 @@ def main():
     print("--------------------------------------------")
     print("  Ryan Fleetham")
     print("--------------------------------------------")
-    ev3.Sound.speak("supercalifragilistexpalidoucise").wait()
+    ev3.Sound.speak("I maybe work").wait()
 
 
 main()
